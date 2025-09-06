@@ -47,6 +47,7 @@
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^14.6.1",
     "@types/aria-query": "^5.0.4",
+    "@types/jest": "^30.0.0",
     "@vitejs/plugin-react": "^5.0.2",
     "ansi-regex": "^5.0.1",
     "ansi-styles": "^5.2.0",
@@ -77,6 +78,7 @@
     "sonner": "^1.7.4",
     "tailwind-merge": "^2.6.0",
     "tailwindcss-animate": "^1.0.7",
+    "ts-jest": "^29.4.1",
     "vaul": "^0.9.9",
     "vitest": "^3.2.4",
     "zod": "^3.25.76"
